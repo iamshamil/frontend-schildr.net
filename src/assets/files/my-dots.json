@@ -1,0 +1,180 @@
+{
+    "type": "dots",
+    "dots": [
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Uzbekistan",
+            "lat": "41.266666666667",
+            "lng": "69.366666666667"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Kazakhstan",
+            "lat": "43.35",
+            "lng": "75.033333333333"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "USA",
+            "lat": "24.079905",
+            "lng": "-12.191297"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Russia",
+            "lat": "56.05",
+            "lng": "92.9"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Russia",
+            "lat": "55.033333333333",
+            "lng": "83"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Malaysia",
+            "lat": "3.11666666666",
+            "lng": "101.7"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Singapore",
+            "lat": "1.2916666666667",
+            "lng": "103.85"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Indonesia",
+            "lat": "-8.75",
+            "lng": "115.16666666667"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Thailand",
+            "lat": "13.9255",
+            "lng": "100.75923"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Thailand",
+            "lat": "55.439025",
+            "lng": "25.439145"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Thailand",
+            "lat": "51.579519",
+            "lng": "24.245497"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Thailand",
+            "lat": "12.955468",
+            "lng": "9.417772"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Thailand",
+            "lat": "19.895768",
+            "lng": "24.76779"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Thailand",
+            "lat": "51.657797",
+            "lng": "4.156232"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Thailand",
+            "lat": "-84.543749",
+            "lng": "46.538684"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Thailand",
+            "lat": "-83.469551",
+            "lng": "45.994686"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Thailand",
+            "lat": "39.139399",
+            "lng": "21.291905"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "South Korea",
+            "lat": "37.472222222222",
+            "lng": "126.60833333333"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "japan",
+            "lat": "37.472222222222",
+            "lng": "140.60833333333"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "china",
+            "lat": "30.472222222222",
+            "lng": "110.60833333333"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "USA",
+            "lat": "140.472222222222",
+            "lng": "90.60833333333"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "USA",
+            "lat": "130.472222222222",
+            "lng": "80.60833333333"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "USA",
+            "lat": "130.472222222222",
+            "lng": "60.60833333333"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Brazil",
+            "lat": "185.472222222222",
+            "lng": "110.60833333333"
+        },
+        {
+            "text": "",
+            "size": 0.5,
+            "country": "Brazil",
+            "lat": "200.472222222222",
+            "lng": "135.60833333333"
+        }
+    ]
+}
